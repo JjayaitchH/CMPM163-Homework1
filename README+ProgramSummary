@@ -34,26 +34,6 @@ there on will become magenta. When the program ends you can
 see how many were revived before the program stopped. That's 
 about all I was able to do for this program. I did try altering
 consitions a bit but it resulted in bad things happeneing.
-
-D)  I really like the explosions in Just Cause 3. So basically what
-happend pre- explosion is there is like a leak and you can see the
-gas coming out, it even looks kind of wavy where the gas is leaking 
-(kind of like how the streets look when it's really hot and it appears
-like they are waving back and forth from afar). Then the actual explosion
-happens either with time or the player expedites the process. When the 
-explosion happens, the way it moves looks pretty real and it looks 
-cool the way they made the explosion flash, as if there are still things
-inside the chaos that are yet to explode and are still exploding. 
-Then there is also shrapnel thrown everywehre and once the explosion calms 
-all that is left is the black smoke that slowly disappears. I have no
-clue as to how is was created but I feel like it was a particle system,
-especially the smoke. The effect doesn't really change as the camera 
-moves but since the explosion displaces randomly, seeing it from a 
-different angle can give you a different view. I think the effect
-definitely changes the color of the pixles because it goes from a 
-firey explosion to just black smoke. I think it also alters the texture
-since it goes from like ried, orange, yellow flames + smoke to
-only smoke.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ALSO: Some feelings about this class. So I personally 
 feel like there was just way too much introduced at the 
